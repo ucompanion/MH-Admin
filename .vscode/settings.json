@@ -18,5 +18,6 @@
     "editor.insertSpaces": false,
     "editor.formatOnSave": false,
     "editor.renderWhitespace": "all",
-	"editor.hover.enabled": false
+	"editor.hover.enabled": false,
+	"liveServer.settings.port": 5501
 }
